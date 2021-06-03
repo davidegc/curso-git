@@ -1,3 +1,7 @@
-##
+## Pasos de instalacion
 
-Agregando archivo READEME.md
+Ejecutar
+
+``
+npm install
+``
