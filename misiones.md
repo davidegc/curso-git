@@ -4,3 +4,5 @@
 2. Crear la liga de la justicia
 3. Buscar nuevos miembros para la liga
 4. Buscar nuevos aliados
+5. Investiación del enemigo
+6. Mision de prueba
