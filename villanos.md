@@ -8,3 +8,4 @@
 6. Villano 6
 7. Villano 7
 8. Villano 8
+9. Deadshot
