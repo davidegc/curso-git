@@ -1,6 +1,6 @@
-## Pasos de instalacion
+# Pasos de instalacion
 
-Este repositorio sirve para varias cosas
+Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 Ejecutar
 
