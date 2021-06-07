@@ -21,7 +21,3 @@ Debemos omitir estos archivos y carpetas
 node_modules
 .log
 .editorconfig
-
-
-### GitHub
-Cambios realizados en GitHub.com
