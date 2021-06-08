@@ -9,9 +9,21 @@ body {
    background: #eee;
 }
 
+footer {
+   height: 40px;
+   text-align: center;
+   color: white;
+   background-color: darkslateblue;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   padding-top: 10px;
+}
 
-
-
+footer a {
+   color: whitesmoke;
+}
 
 
 
