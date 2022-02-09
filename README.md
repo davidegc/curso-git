@@ -10,9 +10,9 @@ Ajustes al proyecto
 
 Ejecutar
 
-``
+```
 npm install
-``
+```
 
 ## Por omitir
 
